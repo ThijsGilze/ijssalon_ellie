@@ -34,9 +34,6 @@ reclame_tekst4= f"Vandaag in de aanbieding:vanille-ijs, 1 liter - slechts € {a
 #ik heb geen hoofdletters bij opgave 8?Wanneer ik dat wel zou hebben, geef ik het printmethod. 
 #    print (el.lower())
 
-#opgave 10
+#opgave 10 (Ik heb echt geen idee, sorry) Ik zou alles splitten en dan de lengte eruit halen en dan het if statement toevoegen, maar kom er niet aan uit. 
 (reclame_tekst4.split())
 print (len ("reclame_tekst4"))
-
-
-
